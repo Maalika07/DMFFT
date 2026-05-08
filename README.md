@@ -1,12 +1,6 @@
 # DMFFT: Improving the Generation Quality of Diffusion Models Using Fast Fourier transform
 
 
-## **Team Members:** 
-1. Kiruthika K (CB.SC.U4AIE24329) - [cb.sc.u4aie24329@cb.students.amrita.edu](mailto:cb.sc.u4aie24329@cb.students.amrita.edu)
-2. Mithul Pranav (CB.SC.U4AIE24331) -  [cb.sc.u4aie24331@cb.students.amrita.edu](mailto:cb.sc.u4aie24331@cb.students.amrita.edu)
-3. Maalika P (CB.SC.U4AIE24332)-  [cb.sc.u4aie24332@cb.students.amrita.edu](mailto:cb.sc.u4aie24332@cb.students.amrita.edu)
-4. Rithan S (CB.SC.U4AIE24348) -  [cb.sc.u4aie24348@cb.students.amrita.edu](mailto:cb.sc.u4aie24348@cb.students.amrita.edu)
-
 
 ## Objective
 The primary objective of this research is to propose DMFFT (Diffusion Models using Fast Fourier Transform), to enhance generation quality.
